@@ -1,0 +1,1364 @@
+Football
+ 
+i
+ 
+ 
+About the Tutorial
+ 
+Football or soccer 
+is the most popular ball game around the world. 
+Football requires a lot of 
+stamina and staying power on the ground as it is all about foot speed, and the confidence to 
+skillfully maneuver the ball to score a goal. 
+T
+his tutorial explains the 
+simple yet 
+fundamental 
+rules
+ 
+of the game and various terminologies involved. It also provides information on the 
+various associations 
+that help organize tournaments around the
+ 
+world
+. 
+Prominent p
+layers 
+who have made history are als
+o featured towards the conclusion of the document. 
+ 
+ 
+The information here is meant to supplement your knowledge on the 
+game
+. 
+I
+t 
+is
+ 
+not a 
+comprehensive guide on how to play.
+ 
+Audience
+ 
+This tutorial is meant for anyone who wants to know 
+and learn 
+about 
+footba
+ll
+. It is prepared 
+keeping in mind that the reader is unaware about the basics of the 
+game
+. It is a basic guide 
+to help a 
+beginner
+ 
+understand the 
+game of football
+.
+ 
+Prerequisites
+ 
+Before proceeding with this tutorial, you are required to have a passion for t
+he 
+most popular 
+game in the world i.e. football 
+and an eagerness to acquire knowledge on the same.
+ 
+Copyright & 
+Disclaimer
+ 
+
+ 
+Copyright 201
+5
+ 
+by Tutorials Point (I) Pvt. Ltd. 
+ 
+ 
+All the content and graphics published in this e
+-
+book are the property of Tutorial
+s Point (I) 
+Pvt. Ltd. The user of this e
+-
+book is prohibited to reuse, retain, copy, distribute, or republish 
+any contents or a part of contents of this e
+-
+book in any manner without written consent of 
+the publisher. 
+ 
+ 
+We strive to update the contents of our
+ 
+website and tutorials as timely and as precisely as 
+possible, however, the contents may contain inaccuracies or errors. Tutorials Point (I) Pvt. 
+Ltd. provides no guarantee regarding the accuracy, timeliness, or completeness of our 
+website or its contents 
+including this tutorial. If you discover any errors on our website or in 
+this tutorial, please notify us at 
+contact@tutorialspoint.com
+ 
+ 
+Football
+ 
+ii
+ 
+ 
+Table of 
+Contents
+ 
+About the Tutorial
+ 
+................................
+................................
+................................
+................................
+..........
+ 
+i
+ 
+Audience
+ 
+................................
+................................
+................................
+................................
+........................
+ 
+i
+ 
+Prerequisites
+ 
+................................
+................................
+................................
+................................
+..................
+ 
+i
+ 
+Copyright & Disclaimer
+ 
+................................
+................................
+................................
+................................
+...
+ 
+i
+ 
+Table of Contents
+ 
+................................
+................................
+................................
+................................
+..........
+ 
+ii
+ 
+1.
+ 
+FOOTBALL 
+
+ 
+OVERVIEW
+ 
+................................
+................................
+................................
+........
+ 
+1
+ 
+Objective
+ 
+................................
+................................
+................................
+................................
+.......................
+ 
+1
+ 
+Team Size
+ 
+................................
+................................
+................................
+................................
+......................
+ 
+2
+ 
+2.
+ 
+FOOTBALL 
+
+ 
+PARTICIPATING COUNTR
+IES
+ 
+................................
+................................
+...............
+ 
+3
+ 
+3.
+ 
+FOOTBALL 
+
+ 
+PLAYING ENVIRONMENT
+ 
+................................
+................................
+....................
+ 
+4
+ 
+Dimensions of the Football Field
+ 
+................................
+................................
+................................
+...................
+ 
+4
+ 
+4.
+ 
+FOOTBALL 
+
+ 
+EQUIP
+MENT
+ 
+................................
+................................
+................................
+......
+ 
+6
+ 
+5.
+ 
+FOOTBALL 
+
+ 
+POPULAR TERMS
+ 
+................................
+................................
+...............................
+ 
+7
+ 
+6.
+ 
+FOOTBALL 
+
+ 
+PLAYERS AND THEIR PO
+SITIONS
+ 
+................................
+................................
+.......
+ 
+10
+ 
+7.
+ 
+FOOTBALL 
+
+ 
+HOW TO PLAY?
+ 
+................................
+................................
+................................
+ 
+12
+ 
+Football Kick
+-
+off
+ 
+................................
+................................
+................................
+................................
+..........
+ 
+12
+ 
+Football 
+
+ 
+Essential Skills
+ 
+................................
+................................
+................................
+.............................
+ 
+12
+ 
+Football 
+
+ 
+Rules & Regulations
+ 
+................................
+................................
+................................
+....................
+ 
+13
+ 
+8.
+ 
+FOOTBALL 
+
+ 
+TOURNAMENTS
+ 
+................................
+................................
+...............................
+ 
+15
+ 
+Tournaments
+ 
+................................
+................................
+................................
+................................
+...............
+ 
+15
+ 
+9.
+ 
+FOOTBALL 
+
+ 
+CHAMPIONS
+ 
+................................
+................................
+................................
+....
+ 
+17
+ 
+Football
+ 
+1
+ 
+ 
+Football is the 
+most popular
+ 
+sport 
+worldwide
+. It is also called 
+ 
+
+soccer
+
+ 
+in so
+me countries. 
+It
+ 
+is an outdoor game 
+that requires absolute athleticism as players 
+have to 
+hustle and 
+run 
+across the field with 
+the
+ 
+ball
+ 
+throughout the game
+. 
+The name of the sport was der
+ived by 
+the way it is played. 
+This sport took its shape in 
+the 
+18
+th
+ 
+century. 
+ 
+ 
+China being the mother of Football may raise a few eyebrows.
+ 
+In early days, this sport was 
+played by kids in China which was later picked 
+up 
+by the senior fellows. 
+Despite the o
+rigin in 
+Asia, 
+the sport was well received and adapted by people of Europe and South
+-
+America
+n
+ 
+countries. Spain, Italy, Brazil, Argentina, and England are some of the best football playing 
+countries.
+ 
+At the same time, there are international tournaments org
+anized in Europe that 
+many clubs participate and compete 
+in 
+for a prestigious 
+cup.
+ 
+ 
+ 
+Objective
+ 
+Football
+ 
+is played by two teams on 
+a 
+large rectangular shaped grass field
+.
+ 
+There are
+ 
+two 
+goal posts 
+on both ends of 
+the 
+breadth of the field
+.
+ 
+Both the
+ 
+teams
+ 
+vie for the ball by 
+tackling each other
+ 
+and try to kick the ball into 
+
+goal post.
+ 
+The goal
+keeper can 
+only stop the ball with hands within a restricted area around the goal post. Rest of the 
+players ha
+ve
+ 
+to play by kicking the ball 
+an
+d pass
+ing it
+ 
+within teammates. 
+ 
+ 
+1.
+ 
+F
+ootball 
+
+ 
+Overview
+ 
+Football
+ 
+2
+ 
+ 
+The 
+objective of a football team is to score a goal more than their opponent and win the 
+game.
+ 
+A goal is 
+s
+cored when 
+the
+ 
+ball passe
+s
+ 
+the goal line
+. P
+layers can use any part of their 
+body to score the goal but not 
+t
+heir 
+hands. 
+ 
+Team Size
+ 
+Be it a national team or international club, there should be only 11 players 
+per team 
+on the 
+field 
+while 
+playing the game. One of them is 
+the 
+goal
+keeper
+, who is crucial 
+to the success of 
+the team. He is skilled to intercept t
+he ball before 
+a goal 
+is 
+scored by 
+a player of 
+the 
+opponent 
+team
+. 
+T
+here are additional players seated on the side as substitutes
+ 
+to replace 
+on
+-
+field players
+. 
+Coach
+ 
+is an integral part of the team who 
+coaches every member of the team, 
+lays plans 
+and strategies 
+to score goals and win matches.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Football
+ 
+3
+ 
+ 
+Soccer has its roots in China
+;
+ 
+however
+,
+ 
+Africa, Middle
+-
+east, Europe, and Americ
+as pl
+ay this 
+game with utmost love. People 
+from
+ 
+these regions 
+love the sport and follow their 
+national 
+teams and favorite clubs.
+ 
+ 
+Japan, South Korea, 
+and 
+Indonesia are the other countries with national teams 
+that have 
+represented in international even
+ts. 
+Indonesia is first Asian country to have qualified for 
+World Cup. 
+However, 
+India has made a mark in Asian tournaments and is yet to qualify f
+or 
+an international tournament.
+ 
+ 
+The 
+Asian Football Confederation
+ 
+(AFC) is the governing
+ 
+body of 47 member 
+asso
+ciations. It was formed in 1954 and headquartered in 
+Kuala Lumpur, Malaysia. 
+Some of 
+these are intercontinental countries like Russia, Turkey, Azerbaijan, and Israel. Australia 
+had joined AFC in 2006 before being 
+a 
+member of Oceania Football Federation.
+ 
+ 
+T
+here are as many as five governing bodies that manage football 
+outside Asia. All the 
+independent football bodies of various countries are associated with these five federations. 
+Here is the list of various associations and member countries associated with 
+them:
+ 
+ 
+Confederation Africaine de
+ 
+Football
+ 
+(CAF)
+ 
+
+ 
+G
+overning body for the participating 
+
+ 
+ 
+The Confederation of North, Central America and Caribbean Association 
+Football
+ 
+(
+CONCA
+C
+A
+F
+) 
+
+ 
+G
+overning body for North America, Central America and 
+the 
+Caribbean along with Guyana, Suriname and French Guiana.
+ 
+ 
+CONMEBOL
+-
+ 
+T
+he South American 
+Football
+ 
+Confederation is the governing body of 
+association for 
+f
+ootball
+ 
+in South America
+ 
+and the countries 
+associated are 
+Argentina, Brazil, 
+Chile, Colombia, Ecuador
+,
+ 
+and Uruguay. 
+ 
+ 
+Union of European 
+Football
+ 
+Associations (UEFA) 
+
+ 
+It is the
+ 
+governing body for 
+football 
+associations in whole of Europe. It is a commemorate
+ 
+of 54 nations 
+and some
+ 
+of those are 
+Croatia
+, England, France, Germany, Greece, Italy, Netherlands, Portugal, Russia, Spain, 
+Switzerland, Belgium, Bosnia
+,
+ 
+and Herzegovina
+.
+ 
+ 
+2.
+ 
+Football 
+
+ 
+participating countries
+ 
+Football
+ 
+4
+ 
+ 
+Football is the only sport that draws maximum crowd compared to any other sport
+. 
+Two 
+teams dribble, pass, and tackle with the ball to score goals. 
+Boxes are drawn around 
+the 
+
+center
+ 
+of football pitch
+, called 
+half
+-
+way line
+. 
+For every football match, there are four referees on field who check 
+if 
+the 
+equipment and conditio
+ns are suitable before 
+the 
+start of play. 
+ 
+Dimensions of 
+the 
+F
+ootball 
+F
+ield
+ 
+Given below 
+is 
+a 
+sketch of 
+a football field
+ 
+illustrating the various 
+markings 
+on 
+the field
+.
+ 
+ 
+ 
+ 
+ 
+3.
+ 
+football 
+
+ 
+playing envi
+ronment
+ 
+Football
+ 
+5
+ 
+ 
+Professional football stadiums 
+should be 105m long and 68m wide with 
+an area of just 
+above 7
+ 
+sq.km. The outline of the field is called 
+touchline
+. 
+There is a circle in the 
+center
+ 
+of 
+the 
+pitch
+ 
+(the football field) 
+that indicates o
+
+kick
+-
+off
+. This circle 
+has a 
+radius of 9.15m. The
+re is a
+ 
+center
+ 
+spot 
+in the circle
+ 
+where 
+the 
+ball 
+should be kept at 
+the 
+beginning of 
+a 
+new session or after a goal is scored. The line along
+ 
+the 
+breadth of the field is called 
+goal line
+. The goal posts are placed in the 
+center 
+of the field 
+and goal line.
+ 
+ 
+The distance between the inner 
+and outer edges of the goal p
+o
+st are 7.4m and 2.4m 
+respectively. 
+The goal post at each end has 
+two boxes from goal line. 
+The smaller one is 5m 
+box and bigger is 18m box. All the free
+-
+kicks of attacking team are to be taken from 5m 
+box. 
+The 18m box indicates the area 
+where the 
+ 
+goalkeeper 
+is permitted 
+to stop the ball 
+with 
+his 
+hands.
+ 
+ 
+ 
+Direct free
+-
+kick
+ 
+or 
+penalty kick
+ 
+can be taken from a white mark that is within the 18m 
+box. 
+In early days of football, semi
+-
+circle
+s were drawn by goal
+-
+line which were later 
+replaced with rectangular boxes
+. 
+In order to maintain the tradition, a small semi
+-
+circle is 
+drawn outside the bigger box.
+ 
+ 
+The corners of 
+the 
+football field have small arcs that indicate where the ball should be 
+placed for a corner kick.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Football
+ 
+6
+ 
+ 
+Football involves a lot of running around the field wi
+
+require sporting much gear to play the 
+game
+. 
+Cleat shoes, socks, shin protector, and head 
+gear are some of the equipments used by players. In this section, we will l
+earn about 
+these 
+equipments in detail.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cleats or turfs
+: 
+A very important gear for every football player. 
+These are specially designed shoes with spikes on the bottom 
+that 
+provide
+ 
+great traction on grass.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Socks
+: The socks made for 
+Football
+ 
+are very long and they
+ 
+are 
+meant to cover the shin
+-
+guards. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Shin
+ 
+Guards:
+ 
+
+s
+hin
+.
+ 
+While 
+playing football, opponent players try to injure players by kicking 
+in the shin area. It could be an intentional or unintentional act by 
+the p
+layer. Hence, shin guards are a protective equipment.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Soccer Ball:
+ 
+This the main equipment of the game and the total 
+game revolves around this
+. A 
+Football
+ 
+is made of 
+vulcanized 
+rubber with plastic bladde
+rs and covered by plastic covers.
+ 
+4.
+ 
+football 
+
+ 
+equipment
+ 
+Football
+ 
+7
+ 
+ 
+This chapter explains all the 
+popular
+ 
+terms used at play. Some of these are important
+ 
+rules 
+that every football player should be aware of. People following the game closely will find this 
+chapter interesting.
+ 
+ 
+Advantage Rule
+:
+ 
+This rule is applied when there is no need to stop the play when a foul is 
+noticed by the referee. 
+ 
+ 
+Aggregate Scor
+e
+:
+ 
+This is the average score scored by the teams 
+that
+ 
+play in the club 
+competitions
+.
+ 
+T
+hese clubs usually conduct games on the knockout basis. The teams will be 
+paired to play each other twice
+,
+ 
+one 
+on 
+the home ground of both the teams. The score 
+is
+ 
+then deiced by adding the scores in both the matches.
+ 
+ 
+Attacker
+:
+ 
+The term referred to a striker and someone who is close to the goal post of 
+the 
+opposing team.
+ 
+ 
+Ball in and out of play
+:
+ 
+The ball to be passed out of the play must be found outside the 
+side
+line or the goal line. It can be played even if it
+ 
+is on the side line. The game 
+continues 
+as long as the ball is in the play.  
+ 
+ 
+Bicycle kick
+:
+ 
+This is a style or a volley where the player kicks the ball over his head while 
+doin
+g
+ 
+a somersault
+.
+ 
+T
+he player
+ 
+has 
+both 
+his 
+feet off the ground 
+and 
+kicks the ball 
+simultaneously while doing a somersault. 
+ 
+ 
+Booter
+: A term used in the game which means to kick the ball. To boot means to kick the 
+ball very hard, long and high. 
+ 
+ 
+Clear
+:
+ 
+This is used whenever a situ
+ation or chance to score a goal arises in the game. The 
+player should immediately clear the ball or kick the ball away from the goal mouth so that a 
+goal can be stopped. Sometimes they even pass the ball or start an attack and other times 
+they just boot th
+e ball out of the play. 
+ 
+ 
+Captain
+:
+ 
+A player who is chosen to lead a team in the match and to deice the toss before 
+the match. 
+ 
+ 
+Chip
+:
+ 
+
+into the goal.
+ 
+ 
+Dead Ball
+: When the
+ 
+players are stopped and the ball is not moving this is called Dead Ball
+.
+ 
+Such
+ 
+a 
+situation arises when there is 
+a 
+chance for free kicks
+ 
+and
+ 
+penalty kicks.
+ 
+ 
+Extra time
+: 
+This is an additional time of play, 
+whenever there is a tie and i
+s played in two 
+halves of 15 minutes to decide the winner.  
+ 
+ 
+Foul
+:
+ 
+A term used to describe the breach of the laws of 
+Football
+ 
+by a player and this can be 
+punishable by a free kick or penalty.
+ 
+5.
+ 
+football 
+
+ 
+popular terms
+ 
+Football
+ 
+8
+ 
+ 
+ 
+Free Kick
+:
+ 
+Granting an unobstructed kick to a stationary ball
+, 
+e
+s
+pecially 
+whenever 
+the 
+opposing team makes a foul.  
+ 
+ 
+Goalkeeper
+:
+ 
+A 
+specialized player who 
+is 
+also 
+called as goalie
+.
+ 
+T
+he work of a goalkeeper is 
+to stop the ball from reaching the goal post behind him. 
+ 
+ 
+Hand Ball
+:
+ 
+The
+ 
+term used when 
+the players 
+use
+ 
+their hand or arm while playing or passing 
+the ball. This is considered to be offensive in the game. 
+ 
+ 
+Head
+:
+ 
+To head the ball means to
+ 
+play the ball with forehead, be it to clear, pass or to score 
+a goal. 
+ 
+ 
+Mark
+:
+ 
+Wh
+en the game is in the man to man situation
+,
+ 
+the defender is said to mark the 
+attacker. The far
+th
+er he is to him the looser the marking and the closer he plays to him the 
+tighter the marking. 
+ 
+ 
+Man of the match
+:
+ 
+A term used for the best player of the game. 
+ 
+ 
+Own Goal
+:
+ 
+A situation where a player 
+unintentionally kick
+s
+ 
+the ball into his own goal
+ 
+is 
+conceded as own or self
+-
+goal.
+ 
+ 
+Pass
+:
+ 
+An action where a player kicks the ball to his 
+team mate. 
+ 
+ 
+Penalty
+:
+ 
+The situation where a player kicks the ball from the 
+penalty spot and there is only 
+one defender near the goal i.e. the goal
+keeper. 
+ 
+ 
+Period
+: 
+Football
+ 
+game is divided into two halves in time
+; f
+irst half and second half. 
+ 
+ 
+Pitch
+: The 
+Football
+ 
+field is called the pitch for easy use. 
+ 
+ 
+Referee
+:
+ 
+The 
+official 
+in
+-
+charge
+ 
+of the game. Referee is the final decision maker in the 
+game
+;
+ 
+he is the one who checks the time and stops the game when it is over. P
+l
+ayers 
+cannot enter or leave the field without his consent. It is the responsibility of the referee to 
+see that the
+ 
+game, ball and players 
+all 
+conform to 
+the rules
+ 
+of the game
+. There are two 
+assistant referees 
+in the game
+. 
+ 
+ 
+Red Card
+:
+ 
+ 
+A decision of the referee where he decides 
+if a player has made an offence and 
+then asks him to leave the game fo
+r the remaining duration. 
+ 
+ 
+Scissor Kick
+:
+ 
+To kick the ball 
+forward while the player leans sideways and the ball is kicked 
+in the direction which he is playing. This kick is performed while the player is completely off 
+the ground. 
+ 
+ 
+Scoreline
+:
+ 
+I
+ndication of scores of both the teams which also has the information about the 
+home ground. If the 
+score
+line
+ 
+shows ABC 0 and DEF 2
+,
+ 
+this means the game is 
+on
+ 
+
+home ground and the winner is DEF with 2 goals. 
+ 
+ 
+Tackle
+:
+ 
+A term used when a player use
+s his body to take the ball 
+from
+ 
+the opponent
+, it 
+can 
+be 
+a shoulder charge
+. 
+C
+lean tackling means to successfully tak
+e
+ 
+the ball from the opponent 
+without a foul. 
+ 
